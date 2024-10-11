@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/example_complex.dir/example/example_complex.cpp.o -o example_complex  -ljsoncpp 
