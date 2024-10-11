@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/example_static_reflect.dir/example/example_static_reflect.cpp.o -o example_static_reflect  -ljsoncpp 
